@@ -1,4 +1,4 @@
 # arthur
-#nome: Arthur Bravo
-#faculdade: Impacta
-#funçaõ: codificador
+#nome: Arthur Bravo.      
+#faculdade: Impacta.
+#função: codificador.
